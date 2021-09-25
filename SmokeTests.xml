@@ -4,7 +4,7 @@
 	<listeners>
 		<listener class-name="events.TestNgListeners"></listener>
 	</listeners>
-	<test thread-count="5" name="Test">
+	<test thread-count="4" name="Test">
 		<classes>
 			<class name="tests.TC001_CreateLead" />
 		</classes>
